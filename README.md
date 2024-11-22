@@ -72,7 +72,7 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 ### Support   
 Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/TitanXBots) For Updates.   
    
-Report Bugs, Give Feature Requests There... 
+Report Bugs,Give Feature Requests There... 
 
 <h3>「 ᴄʀᴇᴅɪᴛs 」
 </h3>
@@ -90,6 +90,15 @@ Report Bugs, Give Feature Requests There...
 <a href="https://telegram.me/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@TitanTechMatters"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
+
+### Licence
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+[FILE-STORE-BOT](https://github.com/TitanXBots/FileSharing-Bot/) is Free Software: You can use, study share and improve it at your
+will. Specifically you can redistribute and/or modify it under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
 ### 📌 𝑵𝒐𝒕𝒆
 
