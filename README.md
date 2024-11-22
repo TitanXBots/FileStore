@@ -1,3 +1,12 @@
+### Contact Me
+
+Contact The Owner of This Repo In Telegram
+
+<p align="center">
+<a href="https://telegram.me/TitanContactBot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+###
+
 <p align="center">
   <img src="https://envs.sh/WeX.jpg" alt="FileStore Logo">
 </p>
@@ -76,12 +85,6 @@ Report Bugs, Give Feature Requests There...
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ꜰɪʟᴇꜱᴛᴏʀᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤🤍 </b>
 
-### Contact Me
-
-Contact The Owner of This Repo In Telegram
-
-<p align="center">
-<a href="https://telegram.me/TitanContactBot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ### Follow Me On
 
