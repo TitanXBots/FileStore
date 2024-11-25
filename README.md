@@ -78,8 +78,12 @@ Report Bugs,Give Feature Requests There...
 
 - <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/TitanMattersSupport) </b>
 - <b>[Yᴀsʜ](https://github.com/TitanXBots)   ➢   [ʙᴀꜱᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
+
+• Thanks To Yash
+• Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
+• Our Support Group Members 
  
-<b>ᴛʜᴀɴᴋꜱ ᴛᴏ [ʏᴀꜱʜ](https://telegram.me/TitanContactBot) ᴀɴᴅ ᴀʟʟ ᴛʜᴇ [ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ꜰɪʟᴇꜱᴛᴏʀᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤🤍 </b>
+<b>ᴀɴᴅ ᴀʟʟ ᴛʜᴇ [ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ꜰɪʟᴇꜱᴛᴏʀᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ </b>
 
 
 ### Follow Me On
