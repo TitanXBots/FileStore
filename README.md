@@ -74,13 +74,12 @@ Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Supp
    
 Report Bugs,Give Feature Requests There... 
 
-<h3> ᴄʀᴇᴅɪᴛs
-</h3>
+### Credits
 
-- <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
-- <b>[Yᴀsʜ](https://github.com/TitanXBots)   ➢   [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/Pirates_Titans) </b>
+- <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/TitanMattersSupport) </b>
+- <b>[Yᴀsʜ](https://github.com/TitanXBots)   ➢   [ʙᴀꜱᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ꜰɪʟᴇꜱᴛᴏʀᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤🤍 </b>
+<b>ᴛʜᴀɴᴋꜱ ᴛᴏ ʏᴀꜱʜ ᴀɴᴅ ᴀʟʟ ᴛʜᴇ [ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/TitanXBots) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ꜰɪʟᴇꜱᴛᴏʀᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤🤍 </b>
 
 
 ### Follow Me On
