@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/TitanXBots/FileStore",
+  "repository": "https://github.com/TitanXBots/FileStore-Bot",
   "logo": "https://envs.sh/pNw.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -27,7 +27,7 @@
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "Titanxbot"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
@@ -36,6 +36,10 @@
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
       "value": "-100"
+    },
+    "START_MESSAGE": {
+      "description": "Optional: start message of bot, use HTML parsemode format",
+      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
     },
     "FORCE_SUB_CHANNEL_1":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
