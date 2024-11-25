@@ -74,7 +74,7 @@ Join Our [Telegram Group](https://www.telegram.dog/TitanMattersSupport) For Supp
    
 Report Bugs,Give Feature Requests There... 
 
-<h3>「 ᴄʀᴇᴅɪᴛs 」
+<h3> ᴄʀᴇᴅɪᴛs
 </h3>
 
 - <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
