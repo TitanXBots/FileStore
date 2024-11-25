@@ -79,7 +79,7 @@ Report Bugs,Give Feature Requests There...
 - <b>[ᴛɪᴛᴀɴx ʙᴏᴛꜱ](https://t.me/TitanXBots)   ➣   [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/TitanMattersSupport) </b>
 - <b>[Yᴀsʜ](https://github.com/TitanXBots)   ➢   [ʙᴀꜱᴇ ᴄᴏᴅᴇ](https://t.me/TitanXBots) </b>
 
-- Thanks To Yash
+- Thanks To [Yᴀꜱʜ](https://telegram.me/TitanContactBot) For Creating This Amazing Repository
 - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
 - Our Support Group Members 
  
