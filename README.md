@@ -10,7 +10,7 @@
 
 ### Contact Me
 
-- [ᴏᴡɴᴇʀ] You Can Contact Me Here
+[ᴏᴡɴᴇʀ] You Can Contact Me Here
 
 <p align="center">
 <a href="https://telegram.me/TitanContactBot"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
