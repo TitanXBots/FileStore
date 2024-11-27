@@ -30,6 +30,13 @@ I Guess This Will Be Usefull For Many People.....😇.
 - Add the bot to Database Channel with all permission
 - Add bot to 4 ForceSub channels as Admin with Invite Users via Link Permission if you enabled ForceSub 
 
+##
+### Installation
+#### Deploy on Heroku
+**Before You Deploy On Heroku, You Should Fork The Repo And Make changes in {procfile - (web to worker)} . In app.json {Size - (free to eco)}.**<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+
+
 #### Deploy on Koyeb
 
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
