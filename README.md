@@ -33,7 +33,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-**Before You Deploy On Heroku, You Should Fork The Repo And Make changes in {procfile - (web to worker)} . In app.json {Size - (free to eco)}.**<br>
+**Before You Deploy On Heroku, You Should Fork The Repo And Make changes in {procfile - (web to worker)} . In app.json {Size - (free to eco)}.**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
 
 
